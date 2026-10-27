@@ -10,9 +10,9 @@
 
 Uma exploração de redesign da página inicial: o site original à esquerda e a proposta local à direita. A gravação mostra as duas páginas em navegação, incluindo trechos da rolagem. O redesign usa vídeo da própria PangeaSeed, uma nova composição editorial e movimento para dar ritmo à experiência.
 
-[![Vídeo comparativo: site original e proposta de redesign da PangeaSeed](assets/showcase/pangeaseed-before-after.gif)](assets/showcase/pangeaseed-before-after.mp4)
+[![Vídeo comparativo: site original e proposta de redesign da PangeaSeed](assets/showcase/pangeaseed-before-after.gif)](assets/showcase/pangeaseed-before-after.mp4?raw=1)
 
-**[▶ Assistir ao vídeo completo em MP4](assets/showcase/pangeaseed-before-after.mp4)** · [Visitar o site original](https://pangeaseed.org/)
+**[↓ Baixar o vídeo completo em MP4](assets/showcase/pangeaseed-before-after.mp4?raw=1)** · [Visitar o site original](https://pangeaseed.org/)
 
 > Estudo local de design, não afiliado à PangeaSeed. A identidade e os conteúdos mostrados pertencem aos respectivos titulares. O redesign e os textos são propostas, não representam aprovação da organização. Os direitos de redistribuição das mídias não foram verificados.
 
