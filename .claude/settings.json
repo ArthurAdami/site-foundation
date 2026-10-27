@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node -e \"console.log('Para pedidos de criar, melhorar ou clonar site neste projeto, antes de executar siga a skill site-intake: faca perguntas progressivas, exija referencia visual aceita e confirme lacunas antes da parte afetada. Nao aplique a tarefas de documentacao isoladas.')\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}
