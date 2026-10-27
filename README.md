@@ -1,4 +1,22 @@
-# Site Foundation
+<p align="center"><img src="assets/showcase/site-foundation.svg" alt="Site Foundation — uma base para criar o extraordinário" width="100%"></p>
+
+<h1 align="center">Ideias fortes merecem sites à altura.</h1>
+
+<p align="center"><strong>Uma base aberta para transformar referências em experiências digitais com propósito e personalidade.</strong></p>
+
+<p align="center"><a href="#em-cena--pangeaseed">Ver antes e depois</a> · <a href="design-references.md">Explorar referências</a> · <a href="regme.md">Conhecer a base</a></p>
+
+## Em cena — PangeaSeed
+
+Uma exploração de redesign da página inicial: o site original à esquerda e a proposta local à direita. A gravação mostra as duas páginas em navegação, incluindo trechos da rolagem. O redesign usa vídeo da própria PangeaSeed, uma nova composição editorial e movimento para dar ritmo à experiência.
+
+[![Vídeo comparativo: site original e proposta de redesign da PangeaSeed](assets/showcase/pangeaseed-before-after.gif)](assets/showcase/pangeaseed-before-after.mp4)
+
+**[▶ Assistir ao vídeo completo em MP4](assets/showcase/pangeaseed-before-after.mp4)** · [Visitar o site original](https://pangeaseed.org/)
+
+> Estudo local de design, não afiliado à PangeaSeed. A identidade e os conteúdos mostrados pertencem aos respectivos titulares. O redesign e os textos são propostas, não representam aprovação da organização. Os direitos de redistribuição das mídias não foram verificados.
+
+## Uma base. Muitas possibilidades.
 
 Base reutilizável para planejar, criar, melhorar e clonar sites com apoio de IA. Reúne especificações de sites e páginas, requisitos de qualidade, um fluxo de entrada progressivo, orientações de mídia e publicação, além do código-fonte oficial do shadcn/ui como repertório comum de componentes.
 
@@ -7,6 +25,12 @@ O objetivo é começar novos projetos com critérios claros e referências verif
 **O ponto de partida é este README. O índice principal das especificações continua sendo [regme.md](regme.md).**
 
 > Esta base contém documentação, código de terceiros e adaptadores de orientação para agentes. Ela não é um gerador automático de sites, uma aplicação pronta para executar ou um mecanismo universal de deploy.
+
+## Referências que alimentam o processo
+
+[Awwwards](https://www.awwwards.com/) · [CSS Design Awards](https://www.cssdesignawards.com/) · [SiteInspire](https://www.siteinspire.com/) · [The FWA](https://thefwa.com/)
+
+O [guia de referências](design-references.md) explica como pesquisar, selecionar e traduzir ideias para cada projeto com evidências e critérios. O [motor criativo](creative-engine.md) organiza o trabalho de arquitetura, design, copy, construção e revisão. Galerias inspiram; não substituem uma direção escolhida nem a validação do resultado.
 
 ## O que você encontra aqui
 

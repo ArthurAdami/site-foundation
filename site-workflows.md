@@ -29,3 +29,7 @@ Definir objetivo, público, conteúdo, tipo e referências; levantar materiais, 
 ## Efeitos e mídia
 
 Aplicar os padrões de movimento, scroll e otimização de imagens em [requisitos comuns](common-requirements.md), o roteiro de [mídia](media-workflow.md) e os critérios de [SEO](technical-seo.md). Escolher efeitos conforme objetivo e referência aprovada; não aplicar indiscriminadamente.
+
+## Pesquisa visual para criar e melhorar
+
+Aplique o procedimento de [design-references.md](design-references.md): busque nas galerias por objetivo e contexto, registre o que foi observado e como será adaptado, compare a amostra e valide o resultado em desktop e celular. A direção escolhida pela pessoa continua sendo a referência do projeto.
