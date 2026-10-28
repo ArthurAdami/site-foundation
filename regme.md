@@ -313,3 +313,7 @@ Consultar shadcn-ui e preservar a licença. Não tratar instruções, exemplos, 
 - Três comandos de hook executados isoladamente; JSON do Antigravity válido. Adaptador OpenCode v1 executado com contexto simulado; duas cópias da skill equivalentes.
 - Fontes rastreadas do shadcn/ui sem diferenças em relação ao HEAD 96da9cc7f1aa10580a3741664e2a77c721206c00.
 - Não foram testadas sessões reais dos quatro aplicativos, geração de mídia, deploy, variantes do catálogo nem a disponibilidade de todos os links externos. Os testes acima não comprovam esses comportamentos.
+
+## Carrosséis e materiais gráficos de campanha
+
+O [fluxo de campanhas gráficas](graphic-campaign-workflow.md) organiza as skills incorporadas, os cuidados criativos e os limites de execução e validação.

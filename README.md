@@ -44,6 +44,7 @@ O [guia de referências](design-references.md) explica como pesquisar, seleciona
 | Operações de site | Processos próprios para criação, melhoria e clonagem | [Fluxos de trabalho](site-workflows.md) |
 | Entrada com IA | Skill comum e adaptadores para Codex, Claude Code, Antigravity e OpenCode v1 | [Skill site-intake](.agents/skills/site-intake/SKILL.md) |
 | Componentes | Código-fonte oficial do shadcn/ui, com sua licença e organização original | [Repertório shadcn/ui](shadcn-ui/) |
+| Carrosséis e campanhas | Skills de criação gráfica, roteiro, direção visual e revisão | [Fluxo e repertório](graphic-campaign-workflow.md) |
 | Preparação de publicação | Entradas, pré-requisitos, saídas e pendências dos alvos documentados | [Publicação e deploy](regme.md#preparação-de-publicação-e-repertório-de-componentes) |
 
 As quantidades acima descrevem os arquivos presentes na biblioteca. Não significam 66 sites implementados nem 66 modelos visuais prontos.

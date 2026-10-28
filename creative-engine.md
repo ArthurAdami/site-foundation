@@ -14,6 +14,10 @@ Esta base organiza procedimentos e configurações de agentes; sua execução de
 
 O agente principal coordena e fornece contexto. Delegue funções quando o cliente permitir; tarefas com arquivos compartilhados precisam de um único responsável e etapas dependentes devem ser sequenciais. Sem subagentes, o principal executa as mesmas skills. As instruções não constituem bloqueio técnico nem autorizam publicação ou conexões.
 
+## Carrosséis e campanhas
+
+Para peças gráficas, use o [fluxo de campanhas](graphic-campaign-workflow.md) e as skills de roteiro, direção de arte e produção adequadas ao pedido. A presença das skills não comprova execução nem aceitação visual.
+
 ## Galerias e pesquisa aplicada
 
 Consulte [design-references.md](design-references.md) para pesquisar Awwwards, CSS Design Awards, SiteInspire e The FWA por objetivo e registrar evidências, adaptações e limites. A pesquisa complementa a referência aceita.
